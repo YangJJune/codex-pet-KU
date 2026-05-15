@@ -4,6 +4,11 @@ Codex 안에서 만나는 작은 쿠!!
 
 건국대학교 마스코트 KU를 좋아하는 마음으로 만든 비공식 Codex 커스텀 펫입니다.
 
+|  |
+|---|
+| **TIP**<br>이 페이지 URL을 Codex에게 붙여넣고 “이 펫 설치해줘”라고 말하면 됩니다. |
+
+
 [건국대학교 Makersfarm](https://makersfarm.notion.site/1a94cff385048074b049f0bde400abed?v=1a94cff3850481688d50000ceadaf1d8&pvs=74)에서 **애교심**과 **팬심**을 담아 만들었습니다. (쿠 너무 귀여워 ㅜㅜ)
 
 > [!tip]
@@ -17,8 +22,7 @@ Codex 안에서 만나는 작은 쿠!!
 
 ## 🖼️ Preview
 
-> [!TIP]
-> 이 페이지 URL을 Codex에게 붙여넣고 “이 펫 설치해줘”라고 말하면 됩니다.
+![Codex에게 이 펫 설치를 요청하는 팁](./assets/readme/install-tip.svg)
 
 - 상세한 설치 방법은 아래의 `AI Agent 설치 지시` 섹션에 따로 모아두었습니다.
 

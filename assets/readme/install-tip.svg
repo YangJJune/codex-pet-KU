@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="132" viewBox="0 0 980 132" role="img" aria-labelledby="title desc">
+  <title id="title">Codex pet installation tip</title>
+  <desc id="desc">이 페이지 URL을 Codex에게 붙여넣고 이 펫 설치해줘라고 말하면 됩니다.</desc>
+  <defs>
+    <linearGradient id="tipGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#DDF8D7"/>
+      <stop offset="52%" stop-color="#FFF1C7"/>
+      <stop offset="100%" stop-color="#FFD9B8"/>
+    </linearGradient>
+    <filter id="softShadow" x="-8%" y="-20%" width="116%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#8A6B28" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="964" height="116" rx="22" fill="url(#tipGradient)" filter="url(#softShadow)"/>
+  <rect x="8.5" y="8.5" width="963" height="115" rx="21.5" fill="none" stroke="#F1C884" stroke-opacity="0.75"/>
+  <circle cx="64" cy="66" r="26" fill="#FFFFFF" fill-opacity="0.68"/>
+  <text x="64" y="75" text-anchor="middle" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif" font-size="28">💡</text>
+  <text x="112" y="54" font-family="Pretendard, Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800" fill="#2F6B35" letter-spacing="0.8">TIP</text>
+  <text x="112" y="86" font-family="Pretendard, Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#2B2A24">이 페이지 URL을 Codex에게 붙여넣고 “이 펫 설치해줘”라고 말하면 됩니다.</text>
+</svg>
