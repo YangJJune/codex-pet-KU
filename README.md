@@ -33,8 +33,8 @@ Codex 안에서 만나는 작은 쿠!!
 | ![대기](./assets/preview/idle.gif) | ![🏃‍♂️‍➡️ 달리기](./assets/preview/running-right.gif) | ![🏃‍♂️ 달리기](./assets/preview/running-left.gif) | ![안녕~](./assets/preview/waving.gif) | ![짬푸-](./assets/preview/jumping.gif) |
 
 | 실패 | 건덕이 쓰담 | 작업 중 | Hmm... |  |
-|:---:|:---:|:---:|:---:|:---:|
-| ![실패](./assets/preview/failed.gif) | ![기다리는 중](./assets/preview/waiting.gif) | ![작업 중](./assets/preview/running.gif) | ![검토 중](./assets/preview/review.gif) |  |
+|:---:|:---:|:---:|:---:|
+| ![실패](./assets/preview/failed.gif) | ![기다리는 중](./assets/preview/waiting.gif) | ![작업 중](./assets/preview/running.gif) | ![검토 중](./assets/preview/review.gif) | 
 
 <br>
 <br>
